@@ -1,0 +1,297 @@
+{
+            "stage": "Hired", 
+            "resume": {
+                "rawText": "<br />YANN LETARTE-LAVOIE<br />1041, Kennedy Nord Street<br />Sherbrooke (Qu\u00e9bec) J1E 3S6<br />Phone : 707-472-7195<br />Yann.Letarte-Lavoie@outlook.com<br /> <br />Spoken and Written Languages<br />French<br />English<br /> <br />Experience<br />2011-2013                    Restaurant Pizzicato               *   Cook<br />(Sherbrooke)<br />2012                         Caf\u00e9 Never Matter                  *   Cook<br />(Naramata, BC)<br />2010-2011                    Restaurant L'Excellence            *   Cook (italien food)<br />(Granby)<br />2006-2010                    Restaurant Do                      *   Dishwasher<br />(Sherbrooke)                       *   Assistant-cook<br />*   Cook ( asian-food )<br /> <br />Studies<br />2012-2013                   Centre 24-juin                     *   Ma\u00e7onnerie-Briquetting<br /> <br />2008-2009                   Centre Saint-Michel                *   Fran\u00e7ais<br /> <br />2003-2008                   Coll\u00e8ge Notre-Dame des             *   Highschool<br />Servites<br /> <br />Certifications<br />2011-07                      Health and Food Safety (180256)<br /> <br />2012-11                      Health and Safety Certificate Course on General Construction<br />Projects (413446)<br /> <br />Qualities<br />2005-2008        Male athlete of the year                          Highschool<br />Punctual, determined, smiling, ease with teamwork, appropriately competitive, fast learner<br /> <br /> <br />REFERENCES UPON REQUEST.<br /> <br />Born : 1990-09-27<br /> <br />Updated January 3, 2016", 
+                "termMap": [
+                    "*", 
+                    "/", 
+                    "/&gt;", 
+                    "/&gt;*", 
+                    "/&gt;1041", 
+                    "/&gt;2003200", 
+                    "/&gt;2005200", 
+                    "/&gt;2006201", 
+                    "/&gt;2008200", 
+                    "/&gt;201", 
+                    "/&gt;2010201", 
+                    "/&gt;20110", 
+                    "/&gt;2011201", 
+                    "/&gt;20121", 
+                    "/&gt;2012201", 
+                    "/&gt;born", 
+                    "/&gt;certifications", 
+                    "/&gt;english", 
+                    "/&gt;experience", 
+                    "/&gt;french", 
+                    "/&gt;granby", 
+                    "/&gt;naramata", 
+                    "/&gt;phone", 
+                    "/&gt;projects", 
+                    "/&gt;punctual", 
+                    "/&gt;qualities", 
+                    "/&gt;references", 
+                    "/&gt;servites", 
+                    "/&gt;sherbrooke", 
+                    "/&gt;spoken", 
+                    "/&gt;studies", 
+                    "/&gt;updated", 
+                    "/&gt;yann", 
+                    "/&gt;yannletartelavoieoutlookcom", 
+                    "180256", 
+                    "19900927", 
+                    "201", 
+                    "24juin", 
+                    "3", 
+                    "3s6", 
+                    "413446", 
+                    "5148307191", 
+                    "7074727195", 
+                    "anytime", 
+                    "asianfood", 
+                    "assistantcook", 
+                    "athlete", 
+                    "bc", 
+                    "cafe", 
+                    "caf\u00e9", 
+                    "centre", 
+                    "certificate", 
+                    "coll\u00e8ge", 
+                    "competitive", 
+                    "construction", 
+                    "cook", 
+                    "des", 
+                    "determined", 
+                    "dishwasher", 
+                    "dishwasher/", 
+                    "ease", 
+                    "english", 
+                    "fast", 
+                    "food", 
+                    "fran\u00e7ais", 
+                    "french", 
+                    "hard", 
+                    "healt", 
+                    "health", 
+                    "highschool", 
+                    "interested", 
+                    "italien", 
+                    "j1e", 
+                    "kennedy", 
+                    "kitchens", 
+                    "languages", 
+                    "learner", 
+                    "letartelavoie", 
+                    "lexcellence", 
+                    "loves", 
+                    "l\u2019excellence", 
+                    "male", 
+                    "matter", 
+                    "ma\u00e7onneriebriquetting", 
+                    "nord", 
+                    "notredame", 
+                    "pasta", 
+                    "pizza", 
+                    "pizzicato", 
+                    "pleasure", 
+                    "prep", 
+                    "punctual", 
+                    "qu\u00e9bec", 
+                    "ready", 
+                    "request", 
+                    "restaurant", 
+                    "restaurent", 
+                    "safety", 
+                    "saintmichel", 
+                    "salad", 
+                    "smiling", 
+                    "speaks", 
+                    "street", 
+                    "write", 
+                    "written", 
+                    "yann", 
+                    "yannletartelavoieoutlookcom"
+                ], 
+                "language": "en", 
+                "resumeSections": {
+                    "ContactInfo": "YANN LETARTE-LAVOIE\n1041, Kennedy Nord Street\nSherbrooke (Qu\u00e9bec) J1E 3S6\nPhone : 707-472-7195\nYann.Letarte-Lavoie@outlook.com\n\nSpoken and Written Languages\nFrench\nEnglish", 
+                    "Experience": "2011-2013                    Restaurant Pizzicato               *   Cook\n(Sherbrooke)\n2012                         Caf\u00e9 Never Matter                  *   Cook\n(Naramata, BC)\n2010-2011                    Restaurant L'Excellence            *   Cook (italien food)\n(Granby)\n2006-2010                    Restaurant Do                      *   Dishwasher\n(Sherbrooke)                       *   Assistant-cook\n*   Cook ( asian-food )\n \nStudies\n2012-2013                   Centre 24-juin                     *   Ma\u00e7onnerie-Briquetting\n \n2008-2009                   Centre Saint-Michel                *   Fran\u00e7ais\n \n2003-2008                   Coll\u00e8ge Notre-Dame des             *   Highschool\nServites\n2011-2013                    Restaurant Pizzicato               *   Cook\n(Sherbrooke)\n2012                         Caf\u00e9 Never Matter                  *   Cook\n(Naramata, BC)\n2010-2011                    Restaurant L'Excellence            *   Cook (italien food)\n(Granby)\n2006-2010                    Restaurant Do                      *   Dishwasher\n(Sherbrooke)                       *   Assistant-cook\n*   Cook ( asian-food )\n \nStudies\n2012-2013                   Centre 24-juin                     *   Ma\u00e7onnerie-Briquetting\n \n2008-2009                   Centre Saint-Michel                *   Fran\u00e7ais\n \n2003-2008                   Coll\u00e8ge Notre-Dame des             *   Highschool\nServites", 
+                    "Reference": "Born : 1990-09-27\n\nUpdated January 3, 2016", 
+                    "Certification": "2011-07                      Health and Food Safety (180256)\n\n2012-11                      Health and Safety Certificate Course on General Construction\nProjects (413446)\n\nQualities\n2005-2008        Male athlete of the year                          Highschool\nPunctual, determined, smiling, ease with teamwork, appropriately competitive, fast learner"
+                }, 
+                "userId": "56abb78e75c9fb595f3fcdb0", 
+                "coverLetter": "Hi my name is Yann.\nI would like to apply for the position of dishwasher, line and prep cook. \n\nI'm a hard worker punctual, determined and competitive who loves and always ready to learn. \nOver seven Year's experience in kitchens with certificate in healt and food safety \nSpeaks English and French, it would be a pleasure to work with you and your team.\n\nI'm available anytime\n\nPlease you are interested write me on my email at yann.letarte-lavoie@outlook.com or call me at (5148307191)\nThank you and have a good day.", 
+                "experience": [
+                    {
+                        "date": {
+                            "to": {
+                                "$date": "2011-05-01T06:00:00.000Z"
+                            }, 
+                            "from": {
+                                "$date": "2013-09-30T06:00:00.000Z"
+                            }, 
+                            "present": false
+                        }, 
+                        "position": "line cook, cook", 
+                        "company": "Restaurant Pizzicato", 
+                        "order": -Infinity, 
+                        "description": "preparation of the food and cook the food \nmostly pizza, pasta, salad"
+                    }, 
+                    {
+                        "date": {
+                            "to": {
+                                "$date": "2012-07-01T06:00:00.000Z"
+                            }, 
+                            "from": {
+                                "$date": "2012-09-15T06:00:00.000Z"
+                            }, 
+                            "present": false
+                        }, 
+                        "position": "cook", 
+                        "company": "cafe never matter", 
+                        "order": -Infinity, 
+                        "description": "preparation of the food and cook the food \nmostly pasta, salad"
+                    }, 
+                    {
+                        "date": {
+                            "to": {
+                                "$date": "2010-09-01T06:00:00.000Z"
+                            }, 
+                            "from": {
+                                "$date": "2011-04-15T06:00:00.000Z"
+                            }, 
+                            "present": false
+                        }, 
+                        "position": "cook", 
+                        "company": "Restaurant L\u2019Excellence", 
+                        "order": -Infinity, 
+                        "description": "preparation of the food and cook the food \nmostly pasta, salad"
+                    }, 
+                    {
+                        "date": {
+                            "to": {
+                                "$date": "2006-05-01T06:00:00.000Z"
+                            }, 
+                            "from": {
+                                "$date": "2010-08-20T06:00:00.000Z"
+                            }, 
+                            "present": false
+                        }, 
+                        "position": "dishwasher/ help cook / cook", 
+                        "company": "restaurent do", 
+                        "order": -Infinity
+                    }
+                ], 
+                "hrJson": {
+                    "FormattedName": "Yann LETARTE-LAVOIE", 
+                    "PositionHistory": [
+                        {
+                            "StartDate": "2011", 
+                            "EndDate": "2013", 
+                            "Employer": "Restaurant Pizzicato"
+                        }, 
+                        {
+                            "StartDate": "2012", 
+                            "EndDate": "2013", 
+                            "Employer": "Fran\u00e7ais"
+                        }
+                    ], 
+                    "Certification": [
+                        {
+                            "CertificationName": "Health and Food Safety"
+                        }, 
+                        {
+                            "CertificationName": "Health and Safety Certificate Course"
+                        }, 
+                        {
+                            "CertificationName": "General Construction"
+                        }, 
+                        {
+                            "CertificationName": "Projects"
+                        }, 
+                        {
+                            "CertificationName": "Qualities"
+                        }, 
+                        {
+                            "CertificationName": "Male"
+                        }, 
+                        {
+                            "CertificationName": "Highschool"
+                        }, 
+                        {
+                            "CertificationName": "Punctual"
+                        }
+                    ], 
+                    "FamilyName": "LETARTE-LAVOIE", 
+                    "Phone": [
+                        {
+                            "Number": "707-472-7195"
+                        }
+                    ], 
+                    "GivenName": "Yann"
+                }, 
+                "questions": [
+                    {
+                        "answered": "55bbcc2d9e73f7c541b3594d", 
+                        "questionId": "55bbcc2d9e73f7c541b3594c"
+                    }, 
+                    {
+                        "answered": [
+                            "55bbdba49e73f7c541b35b59"
+                        ], 
+                        "questionId": "55bbdba39e73f7c541b35b58"
+                    }, 
+                    {
+                        "answered": [
+                            "55bbdc819e73f7c541b35b66", 
+                            "55bbdc819e73f7c541b35b67", 
+                            "55bbdc819e73f7c541b35b68"
+                        ], 
+                        "questionId": "55bbdc809e73f7c541b35b65"
+                    }, 
+                    {
+                        "answered": "55bbdff19e73f7c541b35b85", 
+                        "questionId": "55bbdff19e73f7c541b35b84"
+                    }, 
+                    {
+                        "answered": "because i got a contract in the okanagan valley starting only in june and i'm looking for a small contract with accommodation before that one start.", 
+                        "questionId": "55c29e516029d20a52212f41"
+                    }, 
+                    {
+                        "answered": "i expect to get at least 15$ by hours", 
+                        "questionId": "55c29ef76029d20a52212f7c"
+                    }, 
+                    {
+                        "answered": "55c4e4016029d20a522152b4", 
+                        "questionId": "55c4e4016029d20a522152b3"
+                    }, 
+                    {
+                        "answered": "no i don't have any credentials or certifications but i got over seven year's experience in kitchens with certificate in healt and food safety", 
+                        "questionId": "55ca7bffb2809e4066ab507d"
+                    }, 
+                    {
+                        "answered": "55bbe0799e73f7c541b35baa", 
+                        "questionId": "55bbe0799e73f7c541b35ba9"
+                    }, 
+                    {
+                        "answered": "55bbe0de9e73f7c541b35bb4", 
+                        "questionId": "55bbe0de9e73f7c541b35bb3"
+                    }
+                ], 
+                "date": {
+                    "uploaded": {
+                        "$date": "2016-01-29T19:03:42.868Z"
+                    }, 
+                    "updated": {
+                        "$date": "2016-01-29T19:03:42.868Z"
+                    }, 
+                    "added": {
+                        "$date": "2016-01-29T19:03:42.869Z"
+                    }
+                }, 
+                "_id": {
+                    "$oid": "56abb78e75c9fb595f3fcdb2"
+                }, 
+                "isDeleted": false, 
+                "fileId": "56abb49dacdc4a435f7d686f"
+            }
+        }, 

@@ -1,0 +1,66 @@
+Training files should be in the format of the data in HGTrain, unless the perl code is changed to accommodate it.  These files consist of one job / file, with a list of applications to that job:
+
+1. Start with an opening '{', and ending overall with a '}'.
+2. All fields start with a field name, between double quotes, followed by a colon.
+3.  The top field is "applications":, followed by a square brace [
+4.  The sub-fields are then: 
+         "stage:" Either "Rejected", "New", or a positive stage; this will
+                  need to be changed when we are handling stage information
+                  correctly.
+         "resume:" This is the key field, and opens with a {
+                "experience": The experience sub-field starts with a [, followed
+                              by {} surrounding each job in the field.
+                              Each job contains up to least 4 fields:
+                              "position":
+                              "company":
+			      "order":
+                              "description":
+                              And may also contain date fields, which may
+                              in turn contain "to":, "from":, and "present":
+                              fields, all contained within {}'s
+                "education":  Similar to the experience field, but contains the
+                              sub-fields:
+                              "school":
+                              "type":
+                              "order":
+                              "degree":
+                We also need the "rawText": field, if it is available, and
+                can also use the "summary": and "objective": fields.
+5. After closing the []'s of the "application": field, we need the job description, named something other than "description": (as we already have a description field in the experience sections).
+
+
+
+1. Get the keywords from the training files:
+   perl get_keywords_tf-idf.pl -d training_dir -fw function_words_file > keywordFile
+
+2. Get the intersection keywords from the training:
+   perl get_keywords_intersection_tf-idf.pl -d training_dir -fw function_words_file > intersectionFile
+
+3. Get the bigrams from the training files:
+   perl get_key_bigrams_tf-idf.pl -d training_dir -fw function_words_file > bigramFile
+
+4. Get words from files for local keywords:
+   cat training_dir/* | grep '"job":' | perl get_all_jobs.pl
+
+5. Extract feature vectors from training files:
+   perl get_feature_vectors_v13.pl -d training_dir -fw function_words_file [options] -s 1 > feature_file
+
+   #Note: It is important that s=1 for training, and 0 for testing.  This
+   #      Feature severely reduces the number of negative examples used for
+   #      training, which allows learning.  Without making this adjustment,
+   #      the algorithm simply decides to label everything as a negative,
+   #      because the training is 90% negative.
+
+6.  Train the SVM:
+
+    ./svm_light/svm_learn feature_file model_file
+
+    #You can tune the parameters -c and -e.  They both have to do with how
+    #closely we want to fit the training data.  Tuning e tells the SVM
+    #how much change in error is acceptable between iterations before stopping.
+    #C is a parameter that trades the error in training against the general
+    #robustness of the classifier.  Too much in one direction will force
+    #the SVM to model the training data too closely, while too much in the
+    #other direction will result in a poor classifier.
+
+7.  After training the SVM, you can test it using the previous testing methods.  
